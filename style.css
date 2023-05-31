@@ -1,0 +1,30 @@
+/* .calculator{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(4,1fr);
+    gap: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    width: 250px;
+    margin: 0 auto;
+}
+.display{
+    grid-column: 1 / span 4;
+    height: 40px;
+    font-size: 25px;
+    text-align: right;
+}
+.btn{
+    height: 40px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.op{
+    background-color: gray;
+} */
+/* .clr{
+    grid-column: 1 / span 2;
+}
+.eql{
+    grid-row: 4 / span 2;
+} */
